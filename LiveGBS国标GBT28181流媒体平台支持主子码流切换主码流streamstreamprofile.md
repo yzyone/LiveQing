@@ -50,7 +50,7 @@
 ## 3、搭建GB28181视频直播平台 ##
 
 - 支持 Windows Linux 及其它CPU架构（国产、嵌入式…）操作系统
-- 安装包下载 、 安装使用说明、 WEB前端源码
+- [安装包下载](https://www.liveqing.com/docs/download/LiveGBS.html) 、 [安装使用说明](https://www.liveqing.com/docs/manuals/LiveGBS.html)、 [WEB前端源码](https://github.com/livegbs/GB28181-Server)
 
 ————————————————
 
